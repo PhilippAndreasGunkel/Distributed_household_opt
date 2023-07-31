@@ -25,6 +25,6 @@ The research focuses on Danish prosumer households and their characteristics bas
 
 The research provides insights into the impact of taxing self-consumed solar production and optimizing energy flows in Danish prosumer households. The findings contribute to the understanding of the energy landscape and electricity cost distribution in the context of increasing adoption of solar PV, heat pumps, and electric vehicles in residential buildings.
 
-No liability taken if you burn your CPU or if the there are mistakes in the description text above. I refer to Safety.md on an approach to not burn your CPU.
+No liability taken if you burn your CPU or if the there are mistakes in the description text above. How to not burn your CPU or completly I refer to Safety.md on an approach to not burn your CPU or a full Disk-o-Disaster.
 For more details, please refer to the full paper under review: https://arxiv.org/ftp/arxiv/papers/2306/2306.11566.pdf.
 
